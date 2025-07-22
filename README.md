@@ -1,2 +1,2 @@
 # magic_8_ball_tkinter
-Basit tahmin uygulaması.
+Kullanıcının sorduğu sorulara rastgele cevaplar veren basit bir sihirli 8 topu simülasyonudur.Python/Tkinter ile yazılmıştır.
